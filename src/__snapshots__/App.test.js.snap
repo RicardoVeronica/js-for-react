@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test App component should find App component 1`] = `
+<div>
+  <h1>
+    0
+  </h1>
+  <button
+    onClick={[Function]}
+  >
+    Sub
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    Restart
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    Add
+  </button>
+</div>
+`;
